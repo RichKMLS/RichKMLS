@@ -1,7 +1,7 @@
 <br>
 
 ### <h3 align="center">originates</h3>
-<p align="center">💡 Open to collaborating on projects and innovative ideas! 💡</p>
+<p align="center">💡 Open to collaborating on projects and innovative ideas!</p>
 
 <br>
 
