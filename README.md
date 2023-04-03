@@ -5,7 +5,7 @@
 
 <br>
 
-Hi!, I'm a technical specialist, AI/ML enthusiast and certified Medical Laboratory Scientist. I use data analysis, automation, and AI to solve complex problems and work on creative projects.
+<p align="center">I have extensive experience in data analysis, automation and AI solutions.<br>I enjoy tackling complex problems with innovative approaches<br>and am passionate about using technology to improve lives.<br>I'm also a certified Medical Laboratory Scientist!</p><br><br>
 
 Here are some of my skills and experience:
 
