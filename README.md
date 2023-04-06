@@ -18,6 +18,7 @@ I'm a Technical Specialist with extensive experience in creating automation and 
 ![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-334455?style=flat&logo=AutoHotkey&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
 
+ 
 ## 🏆 Projects
 
 - [leukoRight](https://github.com/originates/leukoRight): A web app that recognizes white blood cells with a trained Keras model. It can differentiate various types of WBCs and detect artifacts and bursted cells. I developed this app to familiarize myself with creating Keras models from scratch and to see first-hand what is possible with image recognition technologies.
@@ -28,7 +29,7 @@ I'm a Technical Specialist with extensive experience in creating automation and 
 
 ## 📈 GitHub Stats
 
-![originates's GitHub stats](https://github-readme-stats.vercel.app/api?username=originates)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=originates" alt="GitHub Stats"></p>
 
 ## 💡 Let's collaborate!
 
