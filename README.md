@@ -19,7 +19,7 @@ I'm a Technical Specialist with extensive experience in creating automation and 
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
 
  
-## 🏆 Projects
+## 🏆 Highlighted Projects
 
 - [leukoRight](https://github.com/originates/leukoRight): A web app that recognizes white blood cells with a trained Keras model. It can differentiate various types of WBCs and detect artifacts and bursted cells. I developed this app to familiarize myself with creating Keras models from scratch and to see first-hand what is possible with image recognition technologies.
 - [cashTrack](https://github.com/originates/cashTrack): A tool that helps you split bills without splitting them. It uses Signal messenger and an SQL database to send and receive money virtually via an electronic ledger. I created cashTrack to simplify the process of splitting expenses with my partner and to practice my database and scripting skills. I also learned how to effectively prompt engineer OpenAI language models to generate useful code quickly.
