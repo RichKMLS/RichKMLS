@@ -1,6 +1,6 @@
 # Hi, I'm 'originates' aka Rich K 👋
 
-I'm a Technical Specialist with extensive experience in creating automation and AI solutions. I enjoy tackling complex problems with innovative approaches and I'm passionate about using technology to improve lives.
+I'm a Technical Specialist with extensive experience in creating automation and AI solutions. I enjoy tackling complex problems with innovative approaches and I'm passionate about using technology and data to improve lives.
 
 ## 🚀 Skills and Tools
 
@@ -17,6 +17,8 @@ I'm a Technical Specialist with extensive experience in creating automation and 
 ![VBscript](https://img.shields.io/badge/-VBscript-5C2D91?style=flat&logo=Microsoft&logoColor=white)
 ![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-334455?style=flat&logo=AutoHotkey&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white)
 
  
 ## 🏆 Highlighted Personal Projects
