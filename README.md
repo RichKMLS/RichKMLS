@@ -39,4 +39,4 @@ I'm a Technical Specialist with extensive experience in creating automation and 
 ## 💡 Let's collaborate!
 
 I'm always open to collaborating on projects and innovative ideas.<br>
-If you have something in mind, feel free to contact me at github@richmadisonwi.com or open an issue on one of my repositories.
+If you have something in mind, feel free to contact me at github_user@tuta.io or open an issue on one of my repositories.
