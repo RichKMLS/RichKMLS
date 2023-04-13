@@ -20,7 +20,7 @@ I'm a Technical Specialist with extensive experience in creating automation and 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white)
 
- 
+
 ## 🏆 Highlighted Personal Projects
 
 - [leukoRight](https://github.com/originates/leukoRight): A web app that uses a custom-built Keras model to recognize and classify white blood cells from microscopic images. It can distinguish between different types of WBCs and identify artifacts and bursted cells. I created this app as a way to explore the possibilities of image recognition technologies and to learn how to develop Keras models from scratch.
