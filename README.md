@@ -1,6 +1,6 @@
 # Hi, I'm 'originates' aka Rich K. 👋
 
-As a Technical Specialist, I have extensive experience in quality control, data analysis, automation, and developing automation and AI solutions. I enjoy solving complex problems with innovative approaches and I'm passionate about using technology and data to improve lives.
+I have extensive experience in quality control, data analysis, automation, and developing AI solutions. I enjoy solving complex problems with innovative approaches and I'm passionate about using technology and data to improve lives.
 
 ## 🚀 Skills and Tools
 
