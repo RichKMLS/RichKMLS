@@ -29,7 +29,7 @@ As a Technical Specialist, I have extensive experience in quality control, data 
 - [Random Number 3D Wheel in Excel](https://github.com/originates/Random-Number-3D-Wheel-in-Excel): This project demonstrates the creative use of VBA to animate 3D shapes in Excel. I created a 3D wheel with 12 segments; the wheel spins and slows down to randomly stop at a selected segment, which flashes green to indicate the winner. The spinning duration varies each spin, adding suspense and excitement to the animation. This project showcases my skills and creativity in using Excel beyond its conventional functions.
 - [HashCheck](https://github.com/originates/HashCheck): This is a program that leverages AutoHotkey (AHK), PowerShell and VBScript to securely open a single-instance Excel file with a verified SHA256 hash. The program bypasses the user macro settings and executes a Workbook_Open VBA script embedded in the Excel file. This program demonstrates my proficiency in integrating different scripting languages and tools to accomplish sophisticated tasks with minimal code.
 
-- I also made a tiny contribution to Pytorch which was merged on Oct 3 2022: https://github.com/pytorch/pytorch/pull/85679 😁
+- I also made a tiny contribution to Pytorch which was merged on Oct 3 2022: https://github.com/pytorch/pytorch/pull/85679 😁😁😁
 
 ## 📈 GitHub Stats
 
