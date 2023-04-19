@@ -2,22 +2,10 @@
 
 I have extensive experience in quality control, data analysis, automation, and developing AI solutions. I enjoy solving complex problems with innovative approaches and I'm passionate about using technology and data to improve lives.
 
-## 🚀 Skills and Tools
+## 📈 GitHub Stats
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-00599C?style=flat&logo=Microsoft%20Excel&logoColor=white)
-![VBscript](https://img.shields.io/badge/-VBscript-5C2D91?style=flat&logo=Microsoft&logoColor=white)
-![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-334455?style=flat&logo=AutoHotkey&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=originates&theme=dark" alt="GitHub Stats" width="45%"> &nbsp; &nbsp; &nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originates&theme=dark&layout=compact" alt="Top Languages" width="35%"></p>
 
 
 ## 🏆 Highlighted Personal Projects
@@ -32,10 +20,6 @@ I have extensive experience in quality control, data analysis, automation, and d
 
 - I also made a tiny contribution to Pytorch which was merged on Oct 3 2022: https://github.com/pytorch/pytorch/pull/85679 😁😁😁
 
-## 📈 GitHub Stats
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=originates&theme=dark" alt="GitHub Stats" width="45%"> &nbsp; &nbsp; &nbsp; 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originates&theme=dark&layout=compact" alt="Top Languages" width="35%"></p>
 
 ## 💡 Let's collaborate!
 
