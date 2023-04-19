@@ -34,7 +34,8 @@ I have extensive experience in quality control, data analysis, automation, and d
 
 ## 📈 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=originates" alt="GitHub Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=originates&theme=dark" alt="GitHub Stats"> &nbsp; &nbsp; &nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originates&theme=dark&layout=compact" alt="Top Languages" width="35%"></p>
 
 ## 💡 Let's collaborate!
 
