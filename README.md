@@ -13,22 +13,19 @@
 <br>
 
 
-
-
-
-<div style="text-align: center; width: 90%;">
-<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"></a>
-<a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=gnu-zsh&logoColor=white" alt="zsh"></a>
-<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"></a>
-<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"></a>
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"></a>
-<a href="https://docs.microsoft.com/en-us/office/vba/api/overview/"><img src="https://img.shields.io/badge/vba-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="vba"></a>
-<a href="https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/scripting-articles/t0aew7hj(v%3dvs.84)"><img src="https://img.shields.io/badge/vbscript-15A8BA?style=for-the-badge&logo=microsoft&logoColor=white" alt="vbscript"></a>
-<a href="https://www.autohotkey.com/"><img src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" alt="autohotkey"></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"></a>
-<a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"></a>  
+<div style="text-align: center; white-space: nowrap; overflow-x: auto;">
+<img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash">
+<img src="https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=gnu-zsh&logoColor=white" alt="zsh">
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell">
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
+<img src="https://img.shields.io/badge/vba-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="vba">
+<img src="https://img.shields.io/badge/vbscript-15A8BA?style=for-the-badge&logo=microsoft&logoColor=white" alt="vbscript">
+<img src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" alt="autohotkey">
+<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel">
+<img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras">
 </div>
 
 
