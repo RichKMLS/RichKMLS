@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/105183376/233739541-3b4acbfa-556f-4869-a57d-6f2b89289786.gif" width=4% loop="infinite" />
 </p>
 
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrata&size=34&duration=1025&center=true&color=FFFFFF&repeat=false&width=1000&height=50&lines=Hello!👋+I'm+Rich+K.+MLS;" />
 <img src="https://readme-typing-svg.demolab.com?font=Montserrata&size=34&duration=1000&center=true&color=000000&repeat=false&width=1000&height=50&lines=Hello!👋+I'm+Rich+K.+MLS;" />
@@ -11,6 +10,28 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=19&duration=3250&color=FFFFFF&repeat=false&multiline=true&width=1200&height=60&lines=I+have+extensive+experience+in+quality+control%2C+data+analysis%2C+automation%2C+and+developing+AI+focused+solutions.;I+enjoy+solving+complex+problems+with+innovative+approaches+and+I'm+passionate+about+using+technology+to+improve+lives." />
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=19&duration=3250&color=000000&repeat=false&multiline=true&width=1200&height=60&lines=I+have+extensive+experience+in+quality+control%2C+data+analysis%2C+automation%2C+and+developing+AI+focused+solutions.;I+enjoy+solving+complex+problems+with+innovative+approaches+and+I'm+passionate+about+using+technology+to+improve+lives." />
 </picture>
+<br>
+
+
+
+
+
+<div style="text-align: center; width: 90%;">
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"></a>
+<a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=gnu-zsh&logoColor=white" alt="zsh"></a>
+<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"></a>
+<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"></a>
+<a href="https://docs.microsoft.com/en-us/office/vba/api/overview/"><img src="https://img.shields.io/badge/vba-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="vba"></a>
+<a href="https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/scripting-articles/t0aew7hj(v%3dvs.84)"><img src="https://img.shields.io/badge/vbscript-15A8BA?style=for-the-badge&logo=microsoft&logoColor=white" alt="vbscript"></a>
+<a href="https://www.autohotkey.com/"><img src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" alt="autohotkey"></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"></a>
+<a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"></a>  
+</div>
+
+
 <br>
 
 
