@@ -1,6 +1,14 @@
-# Hi, I'm 'originates' aka Rich K. 👋
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrata&size=34&duration=1000&center=true&color=FFFFFF&repeat=false&width=1000&height=50&lines=Hello!👋+I'm+Rich+K.+MLS;" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrata&size=34&duration=1000&center=true&color=000000&repeat=false&width=1000&height=50&lines=Hello!👋+I'm+Rich+K.+MLS;" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=14&duration=3001&color=FFFFFF&repeat=false&multiline=true&width=1000&height=50&lines=I+have+extensive+experience+in+quality+control%2C+data+analysis%2C+automation%2C+and+developing+AI+solutions.;I+enjoy+solving+complex+problems+with+innovative+approaches+and+I'm+passionate+about+using+technology+to+improve+lives." />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=14&duration=3001&color=000000&repeat=false&multiline=true&width=1000&height=50&lines=I+have+extensive+experience+in+quality+control%2C+data+analysis%2C+automation%2C+and+developing+AI+solutions.;I+enjoy+solving+complex+problems+with+innovative+approaches+and+I'm+passionate+about+using+technology+to+improve+lives." />
+</picture>
+<br>
 
-I have extensive experience in quality control, data analysis, automation, and developing AI solutions. I enjoy solving complex problems with innovative approaches and I'm passionate about using technology and data to improve lives.
+
 
 ## 📈 GitHub Stats
 
