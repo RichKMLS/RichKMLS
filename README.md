@@ -13,7 +13,7 @@
 ## 📈 GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=originates&theme=dark" alt="GitHub Stats" width="45%"> &nbsp; &nbsp; &nbsp; 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originates&theme=dark&layout=compact&langs_count=8" alt="Top Languages" width="30.66%"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originates&theme=dark&layout=compact&langs_count=8" alt="Top Languages" width="30.78%"></p>
 
 
 ## 🏆 Highlighted Personal Projects
