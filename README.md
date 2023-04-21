@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/105183376/233739541-3b4acbfa-556f-4869-a57d-6f2b89289786.gif" width=5% />
+</p>
+
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrata&size=34&duration=1025&center=true&color=FFFFFF&repeat=false&width=1000&height=50&lines=Hello!👋+I'm+Rich+K.+MLS;" />
 <img src="https://readme-typing-svg.demolab.com?font=Montserrata&size=34&duration=1000&center=true&color=000000&repeat=false&width=1000&height=50&lines=Hello!👋+I'm+Rich+K.+MLS;" />
