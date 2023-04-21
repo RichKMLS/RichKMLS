@@ -42,4 +42,3 @@
 I'm always open to collaborating on projects and innovative ideas.<br>
 If you have something in mind, feel free to contact me at github_user@tuta.io or open an issue on one of my repositories.
 
-<img src="https://komarev.com/ghpvc/?username=originates" alt="Profile Views" />  
