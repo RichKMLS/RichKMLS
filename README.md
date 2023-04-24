@@ -13,20 +13,6 @@
 <br>
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=originates&theme=dark&border_radius=10" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=originates&theme=light&border_radius=10" alt="GitHub Stats" width="45%" />
-</picture>&nbsp; &nbsp; &nbsp; 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=originates&theme=dark&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" width="30.78%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originates&theme=light&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" width="30.78%" />
-</picture>
-</p>
-
-
 ## 🏆 Highlighted Personal Projects
 
 - [leukoRight](https://github.com/originates/leukoRight): A web app that uses a custom-built Keras model to recognize and classify white blood cells from microscopic images. It can distinguish between different types of WBCs and identify artifacts and bursted cells. I created this app as a way to explore the possibilities of image recognition technologies and to learn how to develop Keras models from scratch.<br>&nbsp;&nbsp;<sup>•&nbsp;&nbsp;&nbsp;</sup><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height=20> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height=20> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=20> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=20> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height=20>
